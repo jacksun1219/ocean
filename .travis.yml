@@ -4,5 +4,3 @@ jdk:
   - oraclejdk8
   - oraclejdk9
 
-install: gradle assemble
-build: gradle check
